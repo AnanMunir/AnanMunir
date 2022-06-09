@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnanMunir
-- 👀 I’m interested in ...
+- 👀 I’m interested in developing webpages.
 - 🌱 I’m currently learning  bootstrap,javascript.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my linkedin profile.
 
 <!---
